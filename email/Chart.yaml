@@ -1,0 +1,4 @@
+apiVersion: v1
+name: email
+description: A Helm for Email Kind
+version: 0.1.0

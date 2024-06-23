@@ -1,0 +1,6 @@
+name: ""
+senderConfigRef: "sample"
+recipientEmail: "sample"
+subject: "sample"
+body: "sample"
+
