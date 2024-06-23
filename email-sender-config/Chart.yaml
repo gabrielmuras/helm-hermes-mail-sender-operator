@@ -1,0 +1,4 @@
+apiVersion: v1
+name: email-sender-config
+description: A Helm for EmailSenderConfig Kind
+version: 0.1.0

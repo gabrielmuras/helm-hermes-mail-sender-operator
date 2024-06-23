@@ -1,0 +1,9 @@
+---
+apiVersion: email.hermes.sender/v1
+kind: EmailSenderConfig
+metadata:
+  name: {{ .Values.name }}
+spec:
+  apiTokenSecretRef: {{ .Values.apiTokenSecretRef }}
+  senderEmail: {{ .Values.senderEmail }}
+  provider: {{ .Values.provider }}

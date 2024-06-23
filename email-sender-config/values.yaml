@@ -1,0 +1,8 @@
+name: ""
+apiTokenSecretRef: "sample"
+senderEmail: "sample"
+provider: "sample"
+secret:
+  createNew: true
+  secretName: "sample"
+  apiToken: ""
