@@ -7,6 +7,6 @@ entries:
     digest: 688702f3f18cb579fc671080369445952d123f6c2b0e4000612bd2b8a79ce41a
     name: hermes-mail-sender-operator
     urls:
-    - https://gabrielmuras.github.io/hermes-mail-sender-operator-helm-charts/hermes-mail-sender-operator-0.2.0.tgz
-    version: 0.2.0
+    - https://gabrielmuras.github.io/hermes-mail-sender-operator-helm-charts/hermes-mail-sender-operator-0.3.0.tgz
+    version: 0.3.0
 generated: "2024-06-23T16:56:20.040702074-03:00"
