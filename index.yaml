@@ -1,12 +1,30 @@
 apiVersion: v1
 entries:
+  email:
+  - apiVersion: v1
+    created: "2024-06-23T18:08:53.877267303-03:00"
+    description: A Helm for Email Kind
+    digest: 08aae0915677102b2375ebf78378eaff2304c7cb3b1653546a692c33a3bd5cd4
+    name: email
+    urls:
+    - https://gabrielmuras.github.io/hermes-mail-sender-operator-helm-charts/email-0.1.0.tgz
+    version: 0.1.0
+  email-sender-config:
+  - apiVersion: v1
+    created: "2024-06-23T18:08:53.877444296-03:00"
+    description: A Helm for EmailSenderConfig Kind
+    digest: 4fee301a225ca57bd52afba0b37b182ae7dc3e77cb4704e909dc500a07100865
+    name: email-sender-config
+    urls:
+    - https://gabrielmuras.github.io/hermes-mail-sender-operator-helm-charts/email-sender-config-0.1.0.tgz
+    version: 0.1.0
   hermes-mail-sender-operator:
   - apiVersion: v1
-    created: "2024-06-23T16:56:20.04122948-03:00"
+    created: "2024-06-23T18:08:53.877760224-03:00"
     description: A Helm for Hermes Mail Sender Operator
-    digest: 688702f3f18cb579fc671080369445952d123f6c2b0e4000612bd2b8a79ce41a
+    digest: b48a6deb2ab3662e636253415ec9731a39881465a965ee8d59d0e0db252d8695
     name: hermes-mail-sender-operator
     urls:
-    - https://gabrielmuras.github.io/hermes-mail-sender-operator-helm-charts/hermes-mail-sender-operator-0.3.0.tgz
-    version: 0.3.0
-generated: "2024-06-23T16:56:20.040702074-03:00"
+    - https://gabrielmuras.github.io/hermes-mail-sender-operator-helm-charts/hermes-mail-sender-operator-0.4.0.tgz
+    version: 0.4.0
+generated: "2024-06-23T18:08:53.876927777-03:00"
