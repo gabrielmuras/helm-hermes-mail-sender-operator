@@ -53,5 +53,5 @@ spec:
           requests:
             cpu: {{ .Values.resources.requests.cpu }}
             memory: {{ .Values.resources.requests.memory }}
-      serviceAccountName: {{ .Values.namespace }}
+      serviceAccountName: {{ .Values.serviceAccount }}
       terminationGracePeriodSeconds: 10
