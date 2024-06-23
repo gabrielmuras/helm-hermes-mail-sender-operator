@@ -1,4 +1,0 @@
-apiVersion: v1
-name: hermes-mail-sender-operator
-description: A Helm for Hermes Mail Sender Operator
-version: 0.2.0
