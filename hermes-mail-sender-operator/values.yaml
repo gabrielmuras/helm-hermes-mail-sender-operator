@@ -1,0 +1,13 @@
+name: email-operator
+namespace: default
+serviceAccout: email-operator
+replicas: 1
+image: gmuras/hermes-mail-sender-operator:v0.2
+resources:
+  limits:
+    cpu: 800m
+    memory: 256Mi
+  requests:
+    cpu: 800m
+    memory: 256Mi
+
