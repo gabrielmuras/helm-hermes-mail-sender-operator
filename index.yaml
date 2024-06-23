@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   hermes-mail-sender-operator:
   - apiVersion: v1
-    created: "2024-06-23T16:04:48.437272852-03:00"
+    created: "2024-06-23T16:56:20.04122948-03:00"
     description: A Helm for Hermes Mail Sender Operator
-    digest: 2817672cb17578eb3df094d125552977abf43ce90aa9657443d239cc5f278cb9
+    digest: 688702f3f18cb579fc671080369445952d123f6c2b0e4000612bd2b8a79ce41a
     name: hermes-mail-sender-operator
     urls:
-    - https://gabrielmuras.github.io/hermes-mail-sender-operator/hermes-mail-sender-operator-0.2.0.tgz
+    - https://gabrielmuras.github.io/hermes-mail-sender-operator-helm-charts/hermes-mail-sender-operator-0.2.0.tgz
     version: 0.2.0
-generated: "2024-06-23T16:04:48.432231726-03:00"
+generated: "2024-06-23T16:56:20.040702074-03:00"
